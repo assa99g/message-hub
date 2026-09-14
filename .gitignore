@@ -8,3 +8,11 @@
 node_modules/
 backups/
 secrets/
+.venv/
+.local-data/
+__pycache__/
+*.pyc
+*.sqlite3-*
+client_secret*.json
+credentials.json
+token*.json

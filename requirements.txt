@@ -1,0 +1,2 @@
+google-auth-oauthlib>=1.2,<2
+keyring>=25,<26
